@@ -63,4 +63,4 @@ git remote add origin https://github.com/USERNAME/REPO_NAME.git
 git push -u origin main
 ```
 
-استبدل `USERNAME` و`REPO_NAME` باسم مستخدمك واسم المستودع على GitHub.
+استبدل `USERNAME` و`REPO_NAME` باسم مستخدمك واسم المستودع على GitHub."# histogram-equalization-test" 
